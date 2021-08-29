@@ -1,7 +1,7 @@
 CSVToJSON
 ===
 
-Converts the CSV string to a JSON string.
+Converts the CSV string to a 2D array of objects.
 
 
 
